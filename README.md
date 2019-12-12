@@ -1,3 +1,3 @@
 AAKKS
 # Twitter Simulation 
-CMPE 273 Project Spring 2019
+CMPE 273 Project Fall 2019
